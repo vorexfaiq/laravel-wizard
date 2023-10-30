@@ -1,15 +1,15 @@
 {
-  "name": "smajti1/laravel-wizard",
+  "name": "vorexfaiq/laravel-wizard",
   "description": "Wizard component for laravel.",
   "keywords": ["laravel", "wizard", "step", "steps"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Hubert Dziubiński",
-      "email": "smajti1@gmail.com"
+      "name": "Muhammad Syazrul Faiq bin Zainudin",
+      "email": "vorexfaiq@gmail.com"
     }
   ],
-  "homepage": "https://github.com/smajti1/laravel-wizard",
+  "homepage": "https://github.com/vorexfaiq/laravel-wizard",
   "require": {
     "php": "^7.3 || ^8.0 || ^8.1",
     "illuminate/http": "^7.0 || ^8.0 || ^9.0 || ^10.0"
